@@ -1,0 +1,14 @@
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\bin\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.exe
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\bin\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.deps.json
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\bin\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.runtimeconfig.json
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\bin\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.dll
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\bin\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.pdb
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.AssemblyInfoInputs.cache
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.AssemblyInfo.cs
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.csproj.CoreCompileInputs.cache
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.dll
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\refint\CalculadoradePrêmiosdoSeguroapp.dll
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.pdb
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.genruntimeconfig.cache
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\ref\CalculadoradePrêmiosdoSeguroapp.dll
