@@ -4,7 +4,7 @@ Você é um desenvolvedor em uma seguradora digital que precisa calcular o valor
 
 ## 📝 Requisitos
 
-- ** 🎟 Entrada**: duas linhas  
+-  🎟 Entrada: duas linhas  
   1. Tipo de cobertura: `"basica"`, `"intermediaria"` ou `"completa"`  
   2. Perfil do motorista: `"novato"`, `"experiente"` ou `"profissional"`  
 
