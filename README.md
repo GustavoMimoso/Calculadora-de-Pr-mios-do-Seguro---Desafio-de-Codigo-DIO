@@ -1,16 +1,16 @@
-# Desafio: Calculadora de Prêmio de Seguro
+# 🎈 Desafio: Calculadora de Prêmio de Seguro
 
 Você é um desenvolvedor em uma seguradora digital que precisa calcular o valor do prêmio de um seguro de carro. Dependendo do tipo de cobertura e do perfil do motorista, o valor varia.
 
-## Requisitos
+## 📝 Requisitos
 
-- **Entrada**: duas linhas  
+- ** 🎟 Entrada**: duas linhas  
   1. Tipo de cobertura: `"basica"`, `"intermediaria"` ou `"completa"`  
   2. Perfil do motorista: `"novato"`, `"experiente"` ou `"profissional"`  
 
-- **Saída**: valor do prêmio (string)
+- **🚪 Saída**: valor do prêmio (string)
 
-## Tabela de Valores
+## 📕Tabela de Valores
 
 | Cobertura      | Novato | Experiente | Profissional |
 | -------------- | ------ | ---------- | ------------ |
@@ -18,7 +18,7 @@ Você é um desenvolvedor em uma seguradora digital que precisa calcular o valor
 | **intermediaria** | 300    | 250        | 200          |
 | **completa**   | 500    | 400        | 300          |
 
-## Exemplos
+## 🍃 Exemplos
 
 | Entrada                   | Saída |
 | ------------------------- | ----- |
@@ -26,5 +26,5 @@ Você é um desenvolvedor em uma seguradora digital que precisa calcular o valor
 | completa<br>experiente    | 400   |
 | intermediaria<br>profissional | 200   |
 
-## Código em C#
+## ✔ Código em C#
 
