@@ -12,4 +12,19 @@ Você é um desenvolvedor em uma seguradora digital que precisa calcular o valor
 
 ## Tabela de Valores
 
-| Cobertura      | Novato | Experiente | Profissional
+| Cobertura      | Novato | Experiente | Profissional |
+| -------------- | ------ | ---------- | ------------ |
+| **basica**     | 200    | 150        | 100          |
+| **intermediaria** | 300    | 250        | 200          |
+| **completa**   | 500    | 400        | 300          |
+
+## Exemplos
+
+| Entrada                   | Saída |
+| ------------------------- | ----- |
+| basica<br>novato          | 200   |
+| completa<br>experiente    | 400   |
+| intermediaria<br>profissional | 200   |
+
+## Código em C#
+
