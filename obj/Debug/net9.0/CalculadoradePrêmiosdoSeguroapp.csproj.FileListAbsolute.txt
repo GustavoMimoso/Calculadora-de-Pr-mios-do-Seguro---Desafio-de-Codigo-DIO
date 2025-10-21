@@ -12,3 +12,4 @@ D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\ne
 D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.pdb
 D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.genruntimeconfig.cache
 D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\ref\CalculadoradePrêmiosdoSeguroapp.dll
+D:\Programação\Desafio de Codigo\CalculadoradePrêmiosdoSeguroapp\obj\Debug\net9.0\CalculadoradePrêmiosdoSeguroapp.sourcelink.json

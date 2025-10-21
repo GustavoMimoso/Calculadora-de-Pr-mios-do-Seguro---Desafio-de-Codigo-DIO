@@ -1,12 +1,15 @@
 ﻿using System;
+using System.Security.AccessControl;
 
 class Program
 {
     static void Main(string[] args)
     {
         // Lê o tipo de cobertura
+        Console.WriteLine("Qual tipo de Cobertura");
         string tipoCobertura = Console.ReadLine()!.ToLower().Trim();
         // Lê o perfil do motorista
+        Console.WriteLine("Qual perfil de Motorista?");
         string perfilMotorista = Console.ReadLine()!.ToLower().Trim();
 
         // Calcula o prêmio
@@ -16,28 +19,28 @@ class Program
         Console.WriteLine(resultado);
     }
 
-    static string CalcularPremio(string tipo, string perfil)
+    static string CalcularPremio(string tipoCobertura, string perfilMotorista)
     {
         int premio = 0;
 
-        switch (tipo)
+        switch (tipoCobertura)
         {
             case "basica":
-                if (perfil == "novato") premio = 200;
-                else if (perfil == "experiente") premio = 150;
-                else if (perfil == "profissional") premio = 100;
+                if (perfilMotorista == "novato") premio = 200;
+                else if (perfilMotorista == "experiente") premio = 150;
+                else if (perfilMotorista == "profissional") premio = 100;
                 break;
 
             case "intermediaria":
-                if (perfil == "novato") premio = 300;
-                else if (perfil == "experiente") premio = 250;
-                else if (perfil == "profissional") premio = 200;
+                if (perfilMotorista == "novato") premio = 300;
+                else if (perfilMotorista == "experiente") premio = 250;
+                else if (perfilMotorista == "profissional") premio = 200;
                 break;
 
             case "completa":
-                if (perfil == "novato") premio = 500;
-                else if (perfil == "experiente") premio = 400;
-                else if (perfil == "profissional") premio = 300;
+                if (perfilMotorista == "novato") premio = 500;
+                else if (perfilMotorista == "experiente") premio = 400;
+                else if (perfilMotorista == "profissional") premio = 300;
                 break;
 
             default:
